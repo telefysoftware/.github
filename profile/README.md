@@ -73,11 +73,9 @@ Expand your operations effortlessly as your business grows.
 ## Contact Us
 
 Have questions or need help? We're here for you!
-<!-- 
-- **Email**: support@telefy.com
-- **Website**: [www.telefy.com](http://www.telefy.com)
-- **Telegram**: [@TelefySupport](https://t.me/TelefySupport) -->
-
+[<!-- 
+- **Website**: [https://telefy-website.vercel.app/](https://telefy-website.vercel.app/)
+]([url](url))
 ---
 
 ## Join the Telefy Revolution
