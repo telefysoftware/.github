@@ -73,9 +73,8 @@ Expand your operations effortlessly as your business grows.
 ## Contact Us
 
 Have questions or need help? We're here for you!
-[<!-- 
-- **Website**: [https://telefy-website.vercel.app/](https://telefy-website.vercel.app/)
-]([url](url))
+- **Website**: [Telefy Website](https://telefy-website.vercel.app/)
+
 ---
 
 ## Join the Telefy Revolution
