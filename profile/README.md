@@ -73,7 +73,8 @@ Expand your operations effortlessly as your business grows.
 ## Contact Us
 
 Have questions or need help? We're here for you!
-- **Website**: [Telefy Website](https://telefy-website.vercel.app/)
+- **Website**: [Telefy Website](https://telefybot.com)
+- - **Telegram**: [Telegram Channel](https://t.me/telefyinfo)
 
 ---
 
